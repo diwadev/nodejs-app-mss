@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.127.196.135:9980/diwakarreddy/repository/nodejs-rep/"
+    "registry": "http://35.154.77.128:9980/diwakarreddy/repository/nodejs-rep/"
   },
   
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://13.212.29.25:9980/mithuntechnologies/repository/nodejsproject/"
+    "url": "http://35.154.77.128:9980/diwakarreddy/repository/nodejs-rep/"
   },
   "keywords": [
     "node",
