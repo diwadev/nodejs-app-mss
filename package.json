@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://15.207.247.188:9980/diwakarreddy/repository/nodejs_artifactory/"
+    "registry": "http://13.127.196.135:9980/diwakarreddy/repository/nodejs_artifactory/"
   },
   
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://15.207.247.188:9980/diwakarreddy/repository/nodejs_artifactory/"
+    "url": "http://13.127.196.135:9980/diwakarreddy/repository/nodejs_artifactory/"
   },
   "keywords": [
     "node",
